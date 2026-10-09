@@ -1,0 +1,14 @@
+{
+  "name": "FoxTax: Canadian tax checker",
+  "short_name": "FoxTax",
+  "description": "Check your 2026 Canadian personal, corporate and GST/HST tax numbers. Nothing leaves your browser.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4F7FA",
+  "theme_color": "#123B6B",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
